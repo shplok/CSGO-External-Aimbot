@@ -1,3 +1,17 @@
+
+
+
+
+___NOTE___
+
+AS OF THE RELEASE OF CS2, THIS AIMBOT IS NO LONGER WORKING.
+
+
+
+
+
+
+
 Installation Procedure:
   1. INSTALL or CLONE the repository
   2. EDIT or CHANGE your desired aimbot key    --  Default to RMB
